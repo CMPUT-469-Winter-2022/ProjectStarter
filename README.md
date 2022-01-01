@@ -12,7 +12,7 @@
 
 ## Install instructions
 TODO: Add install instructions
-- Do you have a `requirements.txt` (if you are using Python), `package.json` (if you are using Javascript), etc.
+- Do you have a `requirements.txt` (if you are using Python), `package.json` (if you are using JavaScript), etc.
 
 ## Run instructions
 TODO: Add run instructions
